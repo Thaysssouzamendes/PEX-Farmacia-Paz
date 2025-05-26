@@ -15,7 +15,7 @@ const Hero = () => {
               <span className="text-farmacia-yellow">primeiro lugar</span>
             </h1>
             <p className="text-lg text-gray-600">
-              Na Farmácia PAZ você encontra os melhores medicamentos, produtos de saúde e beleza com atendimento de qualidade e preços acessíveis.
+              Na FarmáciaPAZ você encontra os melhores medicamentos, produtos de saúde e beleza com atendimento de qualidade e preços acessíveis.
             </p>
             <div className="pt-4 flex flex-col sm:flex-row gap-4">
               <Button className="bg-farmacia-yellow hover:bg-amber-500 text-white text-lg py-6 shadow-lg hover:shadow-xl transition-all duration-300">
@@ -29,7 +29,7 @@ const Hero = () => {
           <div className="md:w-1/2 mt-10 md:mt-0">
             <img 
               src="https://images.unsplash.com/photo-1587854692152-cbe660dbde88" 
-              alt="Farmácia PAZ" 
+              alt="FarmáciaPAZ" 
               className="rounded-lg shadow-xl transform translate-y-6 md:translate-y-0 md:translate-x-6"
             />
           </div>

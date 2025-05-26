@@ -13,8 +13,8 @@ const CategoryPage = () => {
   const { toast } = useToast();
   const [cartOpen, setCartOpen] = useState(false);
 
-  // Get category from URL path
-  const path = location.pathname.substring(1); // Remove leading slash
+  
+  const path = location.pathname.substring(1); 
   const categoryFilter = path;
 
   const filteredProducts = products.filter((product) => {
@@ -24,7 +24,7 @@ const CategoryPage = () => {
     return product.gender === categoryFilter;
   });
 
-  // Set page title based on category
+  
   const getCategoryIcon = () => {
     switch(categoryFilter) {
       case "remedios":
