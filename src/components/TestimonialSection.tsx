@@ -6,14 +6,14 @@ const testimonials = [
     id: 1,
     name: "Maria Silva",
     location: "Rio de Janeiro, RJ",
-    testimonial: "A FarmáciaPAZ tem um atendimento excepcional! Os farmacêuticos são muito atenciosos e me ajudaram a encontrar o medicamento certo com o melhor preço.",
+    testimonial: "A FarmaPAZ tem um atendimento excepcional! Os farmacêuticos são muito atenciosos e me ajudaram a encontrar o medicamento certo com o melhor preço.",
     rating: 5
   },
   {
     id: 2,
     name: "João Santos",
     location: "São Paulo, SP",
-    testimonial: "Sempre compro meus medicamentos na FarmáciaPAZ. A entrega é rápida e os preços são muito competitivos. Recomendo a todos!",
+    testimonial: "Sempre compro meus medicamentos na FarmaPAZ. A entrega é rápida e os preços são muito competitivos. Recomendo a todos!",
     rating: 5
   },
   {
@@ -27,7 +27,7 @@ const testimonials = [
     id: 4,
     name: "Carlos Mendes",
     location: "Curitiba, PR",
-    testimonial: "A FarmáciaPAZ tem os melhores preços da cidade e sempre encontro todos os medicamentos que preciso. O programa de fidelidade também é ótimo!",
+    testimonial: "A FarmaPAZ tem os melhores preços da cidade e sempre encontro todos os medicamentos que preciso. O programa de fidelidade também é ótimo!",
     rating: 5
   }
 ];

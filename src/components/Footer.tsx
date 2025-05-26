@@ -12,7 +12,7 @@ const Footer = () => {
             <Link to="/" className="inline-block mb-4">
               <div className="flex items-center text-2xl font-bold">
                 <Bird className="h-6 w-6 text-farmacia-yellow mr-2" />
-                Farmácia<span className="text-farmacia-yellow">PAZ</span>
+                Farma<span className="text-farmacia-yellow">PAZ</span>
               </div>
             </Link>
             <p className="text-gray-400 mb-4">
@@ -67,7 +67,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-800 mt-12 pt-8">
           <p className="text-center text-gray-400">
-            &copy; {new Date().getFullYear()} Farmácia PAZ. Todos os direitos reservados.
+            &copy; {new Date().getFullYear()} FarmaPAZ. Todos os direitos reservados.
           </p>
         </div>
       </div>

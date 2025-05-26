@@ -1,6 +1,6 @@
 # Bem vindo ao projeto PEX-FarmaciaPaz
 
-Este é um projeto de e-commerce para farmácia
+Este é um projeto de e-commerce para farmácia 
 
 ## Como rodar o Projeto?
 ```sh

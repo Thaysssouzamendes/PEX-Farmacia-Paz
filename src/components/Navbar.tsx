@@ -36,7 +36,7 @@ const Navbar: React.FC<NavbarProps> = ({ cartOpen = false, onCartOpenChange }) =
             <Link to="/" className="flex items-center">
               <Bird className="h-8 w-8 text-white mr-2" />
               <div className="text-2xl font-bold text-farmacia-white">
-                Farmácia <span className="text-white">PAZ</span>
+                <span className="text-white">FarmaPAZ</span>
               </div>
             </Link>
           </div>
